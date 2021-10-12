@@ -8,9 +8,9 @@ ticket status from the portal itself which makes it easier for the users to keep
 
 Tech stack:	 
 
-Language used- Java, JSP 
-Database used - MySQL 
-Data structure used- Linear Search for searching 
+Language used- Java, JSP ;
+Database used - MySQL ;
+Data structure used- Linear Search for searching ;
 Web Server- Servlet 
 
 Below is the Sprint Plan
