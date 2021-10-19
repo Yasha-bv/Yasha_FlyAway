@@ -20,7 +20,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author fatih
+ * yasha
  */
 public class AddTicketServlet extends HttpServlet {
 protected void doPost(HttpServletRequest request, HttpServletResponse response)
