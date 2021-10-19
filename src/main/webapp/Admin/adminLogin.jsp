@@ -32,11 +32,11 @@
 
                 <form class="mt-5" action="../AdminLoginServlet" method="post">
                     <div class="form-group">
-                        <input type="email" class="form-control form-control-sm" placeholder="E-posta" name="email" required>
+                        <input type="email" class="form-control form-control-sm" placeholder="Email" name="email" required>
                     </div>
 
                     <div class="form-group">
-                        <input type="password" class="form-control form-control-sm" placeholder="Şifre" name="password" required>
+                        <input type="password" class="form-control form-control-sm" placeholder="Password" name="password" required>
                     </div>
                     <div class="mt-5">
                         <button type="submit" class="btn btn-sm btn-danger col">Login</button>
