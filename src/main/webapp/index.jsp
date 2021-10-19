@@ -27,10 +27,13 @@
         </button>
         <div class="collapse navbar-collapse nav justify-content-end" id="navbarNav">
             <ul class="navbar-nav nav justify-content-center" id="navbarNav">
-
+ <li class="nav-item">
+                <a class="nav-link text-white" href="Admin/adminLogin.jsp">Admin Login</a>
+              </li>
               <li class="nav-item">
                 <a class="nav-link text-white" href="register.jsp">Register</a>
               </li>
+             
               <li class="nav-item ">
                   <div class="btn-group">
                     <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
