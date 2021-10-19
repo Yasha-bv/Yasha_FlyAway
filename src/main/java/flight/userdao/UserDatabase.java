@@ -8,7 +8,7 @@ package flight.userdao;
 
 /**
  *
- * @author fatih
+ * yasha
  */
 import java.sql.*;
 
