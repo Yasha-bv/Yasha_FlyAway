@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  *
- * @author fatih
+ * yasha
  */
 public class UsersList {
 	public List<Users> getirTumListe() {
@@ -30,8 +30,10 @@ public class UsersList {
 			ResultSet rs = psmt.executeQuery();
 
 			while (rs.next()) {
+				
 				Users reh = new Users(rs.getInt("id"), rs.getString("name"), rs.getString("surname"),
-						rs.getString("email"), rs.getString("phone"), rs.getDate("date"));
+						rs.getString("email"), rs.getString("phone"),rs.getString("date"));
+		
 				r.add(reh);
 			}
 
