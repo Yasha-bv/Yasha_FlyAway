@@ -272,7 +272,7 @@
                                 </table>
                             </div>
                             <div class="tab-pane fade" id="ticket-sale" role="tabpanel" aria-labelledby="ticket-sale-tab">
-                                <!-- bilet satis içerik -->
+                                
                             </div>
                         </div>
                     </div>
